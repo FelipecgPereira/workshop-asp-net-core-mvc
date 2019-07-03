@@ -28,4 +28,3 @@ D:\projects\csharp\SalesWebMvc\obj\Debug\netcoreapp2.2\SalesWebMvc.Views.pdb
 D:\projects\csharp\SalesWebMvc\obj\Debug\netcoreapp2.2\SalesWebMvc.dll
 D:\projects\csharp\SalesWebMvc\obj\Debug\netcoreapp2.2\SalesWebMvc.pdb
 D:\projects\csharp\SalesWebMvc\obj\Debug\netcoreapp2.2\SalesWebMvc.csproj.CopyComplete
-D:\projects\csharp\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.g.cshtml.cs
